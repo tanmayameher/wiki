@@ -2,8 +2,6 @@
 Wiki Mod
 ========
 
-Another random mod by me.
-
 This mod provides a "Wiki" block. You can create and edit wiki pages with it.
 
 The pages are saved as `<worldpath>/wiki/<pagename>`. All spaces in the page
